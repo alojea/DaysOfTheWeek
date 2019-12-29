@@ -1,0 +1,20 @@
+# DaysOfTheWeek
+
+The week days are represented as ("Monday","Tuesday","wednesday","Thursday","Friday","Saturday","Sunday"). 
+
+Write a function with the test that given a sting "day" representing the day of the week and an integer "daysLater" (between 0 and 100)
+returns the day of the week that is daysLater. 
+
+Example: 
+
+day = "Monday" 
+daysLater = 2 
+Result "Wednesday"
+
+Example 2:
+
+day = "Saturday"
+daysLater = 23
+Result = "Monday"
+
+© 2019 GitHub, Inc.
